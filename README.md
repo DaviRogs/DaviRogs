@@ -40,7 +40,7 @@
         <img width="100em" height="33em" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:davirocha12.80@gmail.com">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="linkedin.com/in/davi-rogs1">
-        <img width="125em" height="30em" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:linkedin.com/in/davi-rogs1">
+    <a href="https://www.linkedin.com/in/davi-rogs1">
+        <img width="125em" height="30em" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/davi-rogs1">
     </a>
 </p>
