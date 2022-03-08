@@ -10,8 +10,8 @@
 <i>Tenho conhecimento em código HTML, CSS, e um pouco de JavaScript, e agora estou aprendendo python;</li> </i>
 <br>
 
-<li> ✨ I like technology and mathematics. I have always enjoyed exploring computers and it was one of the reasons I chose programming!<br>
-<i>Eu gosto de tecnologia e matemática. Sempre gostei de explorar computadores e foi uma das razões que me levou a escolher a programação!</li> </i>
+<li> ✨ I like technology and mathematics. I have always enjoyed exploring computers and it was one of the reasons I became interested in learning programming!<br>
+<i>Eu gosto de tecnologia e matemática. Sempre gostei de explorar computadores e foi uma das razões que me levou a me interresar aprender programação!</li> </i>
 
 <br>
 
