@@ -29,7 +29,7 @@
 
 <!--Meios de Contato-->
 
-## Professional Contact: <br>
+## Contacts: <br>
 
 <p align="center">
     <a href="https://github.com/DaviRogs"> 
