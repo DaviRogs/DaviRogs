@@ -11,7 +11,7 @@
 <br>
 
 <li> ✨ I like technology and mathematics. I have always enjoyed exploring computers and it was one of the reasons I became interested in learning programming!<br>
-<i>Eu gosto de tecnologia e matemática. Sempre gostei de explorar computadores e foi uma das razões que me levou a me interresar aprender programação!</li> </i>
+<i>Eu gosto de tecnologia e matemática. Sempre gostei de explorar computadores e essa foi uma das razões pelas quais me interessei em aprender programação!</li> </i>
 
 <br>
 
