@@ -1,16 +1,46 @@
-### Hi there 👋
+### Hi! Feel free to explore my GitHub!👋
 
-<!--
-**DaviRogs/DaviRogs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<li> 🔭 I'm currently studying engineering at the University of Brasília (UnB); <br>
+  <i>Atualmente estou estudando engenharia na Universidade de Brasília (UnB);</li> </i>
+ <br>
+ 
+<li> 🌱 I have knowledge in HTML, CSS, and a little JavaScript, and now I'm learning python; <br>
+<i>Tenho conhecimento em código HTML, CSS, e um pouco de JavaScript, e agora estou aprendendo python;</li> </i>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<li> ✨ I have knowledge in HTML, CSS, and a little JavaScript, and now I'm learning python; <br>
+<i>Tenho conhecimento em código HTML, CSS, e um pouco de JavaScript, e agora estou aprendendo python;</li> </i>
+
+<br>
+
+<!--Central de meus status-->
+
+## Git info:	<br>
+
+<p align="center">
+<img height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviRogs&text_color=FFFFFF&show_icons=true&exclude_repo=monitoria,DashEccomerce,Learning-HTML&count_private=true&bg_color=0D1117&layout=compact"
+    /> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviRogs&count_private=true&show_icons=true&cache_seconds=86400&custom_title=Github%20Status&text_color=FFFFFF&bg_color=0D1117"
+    />
+
+</p>
+
+<!--Meios de Contato-->
+
+## Professional Contact: <br>
+
+<p align="center">
+    <a href="https://github.com/DaviRogs"> 
+        <img width="100em" height="33em" src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&Color&link=mailto:https://github.com/DaviRogs">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:davirocha12.80@gmail.com">
+        <img width="100em" height="33em" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:davirocha12.80@gmail.com">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="linkedin.com/in/davi-rogs1">
+        <img width="125em" height="30em" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https:linkedin.com/in/davi-rogs1">
+    </a>
+</p>
