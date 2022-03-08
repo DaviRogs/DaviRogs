@@ -6,8 +6,8 @@
   <i>Atualmente estou estudando engenharia na Universidade de Brasília (UnB);</li> </i>
  <br>
  
-<li> 🌱 I have knowledge in HTML, CSS, and a little JavaScript, now I'm learning python; <br>
-<i>Tenho conhecimento em código HTML, CSS, e um pouco de JavaScript, agora estou aprendendo python;</li> </i>
+<li> 🌱 I have knowledge in HTML, CSS, and a little JavaScript, now I am learning python; <br>
+<i>Tenho conhecimento em linguagem HTML, CSS, e um pouco de JavaScript, agora estou aprendendo python;</li> </i>
 <br>
 
 <li> ✨ I like technology and mathematics. I have always enjoyed exploring computers and it was one of the reasons I became interested in learning programming!<br>
