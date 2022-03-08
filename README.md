@@ -2,7 +2,7 @@
 
 <br>
 
-<li> 🔭 I'm currently studying engineering at the University of Brasília (UnB); <br>
+<li> 🔭 I'm currently studying engineering at the Universidade de Brasília (UnB); <br>
   <i>Atualmente estou estudando engenharia na Universidade de Brasília (UnB);</li> </i>
  <br>
  
