@@ -17,7 +17,7 @@
 
 <!--Central de meus status-->
 
-## Git info:	<br>
+## Git information:	<br>
 
 <p align="center">
 <img height="180em"
