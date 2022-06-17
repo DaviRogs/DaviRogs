@@ -21,7 +21,7 @@
 
 <p align="center">
 <img height="150em"
-      src="https://githu-readme-stats.vercel.app/api/top-langs/?username=DaviRogs&text_color=FFFFFF&show_icons=true&exclude_repo=monitoria,DashEccomerce,Learning-HTML&count_private=true&bg_color=0D1117&layout=compact"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviRogs&text_color=FFFFFF&show_icons=true&exclude_repo=monitoria,DashEccomerce,Learning-HTML&count_private=true&bg_color=0D1117&layout=compact"
     /> <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DaviRogs&count_private=true&show_icons=true&cache_seconds=86400&custom_title=Github%20Status&text_color=FFFFFF&bg_color=0D1117"
     />
 
